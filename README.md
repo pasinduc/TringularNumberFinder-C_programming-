@@ -1,2 +1,2 @@
 # TringularNumberFinder-C_programming-
-Tringular Number Finder For give Range From C programming
+Tringular Number Finder For givenn Range From C programming
