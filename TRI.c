@@ -47,7 +47,7 @@ int k,n,R;
      n = 0;
      for (int i = 1; i <k; i++)
      {
-        n = n + i;
+        n = n + i; //sjdhwiudhwiudhwiudh
         
      }
      
